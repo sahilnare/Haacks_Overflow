@@ -1,6 +1,6 @@
 # Team Pied Piper
 
-## Remote Medicare - MINED Hackathon
+## Hacks Overflow
 
 Team members:
 

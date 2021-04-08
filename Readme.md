@@ -1,4 +1,4 @@
-# Team Pied Piper
+# Team 102
 
 ## Hacks Overflow
 
@@ -13,6 +13,8 @@ Meet Soni
 Description:
 The platform enables the doctor to remotely examine the patient based on the data of the patient’s vitals. Patients have their own personal health assistant. Our chatbot also helps doctor to predict disease based on symptoms.
 It also predicts if a person is infected by covid using audio of coughing.
+
+**UI taken from: https://github.com/radioactive11/HealthBridge**
 
 How to run the project:
 
